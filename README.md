@@ -1,10 +1,15 @@
 # 2.5d World Sample
 
+### 1. 패키지 다운로드 방법
+
 ![스크린샷 2025-04-12 150137](https://github.com/user-attachments/assets/e4e7eebe-f742-40fa-b365-3708e7bbbd41)
 
 - `<> Code` 옆의 아래 방향 화살표를 누르면 ZIP로 다운로드 받을 수 있는 버튼이 있습니다
 - 버튼을 눌러서 유니티 패키지 파일을 확보해주세요!
 
+<br>
+
+### 2. 패키지 열기 
 
 #### 이 패키지는 Unity 6000.0.37f1 을 기준으로 만들어졌습니다!
 
@@ -22,12 +27,17 @@
 
 <br>
 
+
+### 3. Sample Scene
+
 ![스크린샷 2025-04-12 145352](https://github.com/user-attachments/assets/9c5dcbbe-01f8-464b-9f9d-4dfaf680503a)
 
 - `Scene_Sample` 을 연 뒤 플레이해보세요
 - W/A/S/D 키로 캐릭터를 움직이고 세계가 잘 돌아가는지 테스트해보세요
 
 <br>
+
+### 4. Starter Scene
 
 ![스크린샷 2025-04-12 145539](https://github.com/user-attachments/assets/08b383b2-0cde-4c50-9cdf-8bb190989f70)
 
